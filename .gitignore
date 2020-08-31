@@ -33,3 +33,14 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+# Common backup files
+*.swp
+*.bak
+*.tmp
+*~
+
+# Various IDEs
+.project
+.idea/
+*.tmproj
+.vscode/
